@@ -3,9 +3,19 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-07T14:35:11.263103+09:00"
+    created: "2022-09-07T14:54:46.984528+09:00"
     description: A Helm chart for Kubernetes
-    digest: f3f912054d94ea99778ac7afc9a1f44f9be721a35453a2eb1d7df1bff7005799
+    digest: 24ead0e0274d46743f3620e1fb542b22489436fd42e7b593598cdb88cf363bb4
+    name: nginx
+    type: application
+    urls:
+    - https://chixiaolei-rai.github.io/K8sTest/nginx-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-07T14:54:46.984087+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 7805a20071d3d2e0a51a537cda045532ddf9f3dfbd53c0e510a3e1b510331c2b
     name: nginx
     type: application
     urls:
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-07T14:35:11.262585+09:00"
+    created: "2022-09-07T14:54:46.983048+09:00"
     description: A Helm chart for Kubernetes
     digest: bf0d2fb1db1ab8842d0df69f26242b93943c75e7e751693851c2826ef9160203
     name: nginx
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://chixiaolei-rai.github.io/K8sTest/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-07T14:35:11.258845+09:00"
+generated: "2022-09-07T14:54:46.981477+09:00"
