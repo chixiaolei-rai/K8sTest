@@ -3,42 +3,52 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-07T15:03:11.227742+09:00"
+    created: "2022-09-16T13:55:58.038511+09:00"
+    description: A Helm chart for Kubernetes
+    digest: bb7dea9c0d98f74eebed15d4d5d1be52b12287491f605db4ad5853dce0ca23eb
+    name: nginx
+    type: application
+    urls:
+    - https://chixiaolei-rai.github.io/K8sTes/nginx-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-16T13:55:58.036514+09:00"
     description: A Helm chart for Kubernetes
     digest: 7bd1eaf17dcb614545ef224a1bdbffa985afb0a2afa981a3958cd54b4cdf8bac
     name: nginx
     type: application
     urls:
-    - https://chixiaolei-rai.github.io/K8sTest/nginx-0.4.0.tgz
+    - https://chixiaolei-rai.github.io/K8sTes/nginx-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-07T15:03:11.227257+09:00"
+    created: "2022-09-16T13:55:58.035512+09:00"
     description: A Helm chart for Kubernetes
     digest: 24ead0e0274d46743f3620e1fb542b22489436fd42e7b593598cdb88cf363bb4
     name: nginx
     type: application
     urls:
-    - https://chixiaolei-rai.github.io/K8sTest/nginx-0.3.0.tgz
+    - https://chixiaolei-rai.github.io/K8sTes/nginx-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-07T15:03:11.226197+09:00"
+    created: "2022-09-16T13:55:58.034751+09:00"
     description: A Helm chart for Kubernetes
     digest: 7805a20071d3d2e0a51a537cda045532ddf9f3dfbd53c0e510a3e1b510331c2b
     name: nginx
     type: application
     urls:
-    - https://chixiaolei-rai.github.io/K8sTest/nginx-0.2.0.tgz
+    - https://chixiaolei-rai.github.io/K8sTes/nginx-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-07T15:03:11.22513+09:00"
+    created: "2022-09-16T13:55:58.033851+09:00"
     description: A Helm chart for Kubernetes
     digest: bf0d2fb1db1ab8842d0df69f26242b93943c75e7e751693851c2826ef9160203
     name: nginx
     type: application
     urls:
-    - https://chixiaolei-rai.github.io/K8sTest/nginx-0.1.0.tgz
+    - https://chixiaolei-rai.github.io/K8sTes/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-07T15:03:11.22352+09:00"
+generated: "2022-09-16T13:55:58.03269+09:00"
