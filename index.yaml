@@ -3,7 +3,17 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-16T14:00:13.47429+09:00"
+    created: "2022-09-16T14:01:56.764574+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 17887630e38ec5c51ac6f0f44effc5f2a0ce9dc5d23d54b0cf5050e99ad95987
+    name: nginx
+    type: application
+    urls:
+    - https://chixiaolei-rai.github.io/K8sTest/nginx-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-16T14:01:56.761694+09:00"
     description: A Helm chart for Kubernetes
     digest: bb7dea9c0d98f74eebed15d4d5d1be52b12287491f605db4ad5853dce0ca23eb
     name: nginx
@@ -13,7 +23,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-16T14:00:13.473362+09:00"
+    created: "2022-09-16T14:01:56.761232+09:00"
     description: A Helm chart for Kubernetes
     digest: 7bd1eaf17dcb614545ef224a1bdbffa985afb0a2afa981a3958cd54b4cdf8bac
     name: nginx
@@ -23,7 +33,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-16T14:00:13.472665+09:00"
+    created: "2022-09-16T14:01:56.760702+09:00"
     description: A Helm chart for Kubernetes
     digest: 24ead0e0274d46743f3620e1fb542b22489436fd42e7b593598cdb88cf363bb4
     name: nginx
@@ -33,7 +43,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-16T14:00:13.471976+09:00"
+    created: "2022-09-16T14:01:56.760173+09:00"
     description: A Helm chart for Kubernetes
     digest: 7805a20071d3d2e0a51a537cda045532ddf9f3dfbd53c0e510a3e1b510331c2b
     name: nginx
@@ -43,7 +53,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-16T14:00:13.471111+09:00"
+    created: "2022-09-16T14:01:56.759734+09:00"
     description: A Helm chart for Kubernetes
     digest: bf0d2fb1db1ab8842d0df69f26242b93943c75e7e751693851c2826ef9160203
     name: nginx
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://chixiaolei-rai.github.io/K8sTest/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-16T14:00:13.469959+09:00"
+generated: "2022-09-16T14:01:56.759097+09:00"
